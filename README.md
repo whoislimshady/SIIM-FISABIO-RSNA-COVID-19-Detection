@@ -41,6 +41,7 @@ To populate the Model Zoo, SIIM has issued its first-ever Call for AI Models - t
 In addition, SIIM has partnered with FISABIO and RSNA, as well as HP and Intel who are providing $100,000 in prizes to organize this competition, in hopes to receive as many open source models as possible to add to the Model Zoo.
 
 If SIIM + Partners are granted Phase 2 of this NSF Convergence Accelerator, the primary deliverable will be clinical research testing of collaborative model-centric AI platform to meet the urgent needs of scalable validation and translation of model-centric AI in medical imaging. Thus, the more verified models we are able to add to the Model Zoo, the better it is for the advancement of science and betterment of healthcare.
+To get the data for the model visit https://www.kaggle.com/c/siim-covid19-detection/overview/call-for-models
 
 In the spirit of advancing research on this topic, we invite you to contribute your open sourced models for this competition to be included in the Model Zoo. This offer is extended to any participant. Submit your open source model via the Strait I3 Platform.
 
